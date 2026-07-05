@@ -55,6 +55,7 @@ nav:sc nav h1 {
     color: whitesmoke;
     font-family: 'Courier New', Courier, monospace;
     font-size: xx-large;
+    padding: 20px;
 }
 
 .first-hero-button,
