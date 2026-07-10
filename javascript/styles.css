@@ -16,6 +16,14 @@ main {
     align-items: center;
 }
 
+.card-1,
+.card-2,
+.card-3 {
+    background-color: white;
+    border-radius: 5px;
+    width: 190px;
+}
+
 h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: rgb(129, 116, 98);
