@@ -12,3 +12,8 @@ Think – Predict what the code will do before running it.
 Build – Apply it in a small, realistic program.
 
 This is much closer to how developers learn on the job.
+
+
+Level1 - Variables and Datatypes
+Level2 - Operators
+Level3 - Conditionals
